@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Controles de numeros</string>
+    <string name="data">Inserte su nombre: </string>
+    <string-array name="ages">
+        <item>10 o menos</item>
+        <item>11-17</item>
+        <item>18-24</item>
+        <item>25-31</item>
+        <item>31-37</item>
+        <item>38-44</item>
+        <item>44-50</item>
+        <item>50 o más</item>
+    </string-array>
+    <string-array name="genre">
+        <item>Hombre</item>
+        <item>Mujer</item>
+        <item>Otro</item>
+    </string-array>
+
+</resources>
